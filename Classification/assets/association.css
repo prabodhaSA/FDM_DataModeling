@@ -1,0 +1,68 @@
+.navBar {
+  height: 4.5rem;
+
+
+}
+.f-card {
+  width: 80.4rem;
+  position: relative;
+  right: 4rem;
+  border-top-color: #3d3d3d;
+  border-top-width: 2px;
+}
+
+.card-header-k {
+  background-color: #b0acc2;
+}
+.card-header-k-2 {
+  background: #dcdcdc;
+}
+
+.card-k {
+  border-color: #dcdcdc;
+}
+.card-k-2 {
+  border-color: #dcdcdc;
+  height: 50vh;
+  width: 59.5rem;
+  position: relative;
+  right: 1.1rem;
+}
+
+.card-col-k {
+  border-left-color: #6495ed;
+  border-left-width: 4px;
+}
+
+.card-col-k-2 {
+  border-left-color: #6495ed;
+  border-left-width: 4px;
+  border-bottom-color: #6495ed;
+  border-bottom-width: 4px;
+  height: 50vh;
+}
+
+.main-topic {
+  position: relative;
+  right: 10vh;
+  
+}
+
+.main-row {
+  width: 80.4rem;
+  position: relative;
+  right: 4rem;
+
+}
+.card-col-main-row {
+  border-top-color: #3d3d3d;
+  border-top-width: 3px;
+  color: #b0acc2;
+}
+
+
+.drop-down{
+  color: black;
+}
+
+
